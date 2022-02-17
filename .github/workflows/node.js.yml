@@ -11,7 +11,7 @@ on:
     
 defaults:
   run:
-    working-directory: mobie
+    working-directory: pc
 
 jobs:
   build:
